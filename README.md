@@ -26,7 +26,7 @@ I’m a **Software Engineering student at RIT** passionate about building full-s
 
 ### 📫 Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/jasonchi/)  
-- [Portfolio Website](#) *(https://jason-chi52.github.io/)*  
+- [Portfolio Website](https://jason-chi52.github.io/)*  
 - Email: **jc5161@rit.edu**
 
 ---
