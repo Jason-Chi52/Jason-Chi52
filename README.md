@@ -18,7 +18,12 @@ I’m a **Software Engineering student at RIT** passionate about building full-s
   Full-stack **e-commerce platform** with Spring Boot + React. Features include secure JWT authentication, cart/checkout flows, and an admin panel for product management.
 
 - [**Fuding For The Bees**]([https://github.com/Jason-Chi52/UFund](https://github.com/RIT-SWEN-261-08/team-project-2241-swen-261-08-h-mermans))  
-  Crowdfunding web app that simulates payments and showcases campaign funding with a modern React UI. Built with a focus on **scalable architecture** and clean user experience.
+  Collaborated in a 5-person team to build an Angular frontend integrated with a Java backend, implementing secure authentication, checkout processes, and advanced filtering features.
+  Achieved 95% test coverage with 150+ JUnit/Jacoco unit tests, reducing production bugs by 65%.
+  Integrated frontend designs with backend functionality.
+  HTML/CSS to offer a polished and intuitive user experience.
+  Implemented secure user auth, checkout, and advanced filtering.
+
 
 
 
