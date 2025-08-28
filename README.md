@@ -17,7 +17,7 @@ I’m a **Software Engineering student at RIT** passionate about building full-s
 - [**Catalog-Service**](https://github.com/Jason-Chi52/Catalog-service)  
   Full-stack **e-commerce platform** with Spring Boot + React. Features include secure JWT authentication, cart/checkout flows, and an admin panel for product management.
 
-- [**Fuding For The Bees**](https://github.com/Jason-Chi52/UFund)  
+- [**Fuding For The Bees**]([https://github.com/Jason-Chi52/UFund](https://github.com/RIT-SWEN-261-08/team-project-2241-swen-261-08-h-mermans))  
   Crowdfunding web app that simulates payments and showcases campaign funding with a modern React UI. Built with a focus on **scalable architecture** and clean user experience.
 
 
